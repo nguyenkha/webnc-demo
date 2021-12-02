@@ -11,7 +11,7 @@ export default function Home({ giphys }) {
       </Head>
       <h1>Giphy search</h1>
       <ul>
-        <li><Link href="/search/shiba">Xem các GIF về shiba</Link></li>
+        <li><Link href="/search/poodle">Xem các GIF về poodle</Link></li>
         <li><Link href="/about">About</Link></li>
       </ul>      
     </div>
